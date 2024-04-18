@@ -1,0 +1,11 @@
+# pyenv
+.python-version
+
+# kubeconfig
+.kube/
+
+# random env vars
+.env
+
+# vim
+*.swp
